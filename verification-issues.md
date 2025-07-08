@@ -11,6 +11,7 @@ Arvo Stores uses a verification bot called [RoVer](https://rover.link) to link y
 
 ## Cannot access other channels because you are not verified?
 {: .text-red-300 }
+
 If you are unable to access other channels due to not being verified, follow these steps:  
 * Go to the **#verification** channel and click the **Update my roles** button.  
 The bot will guide you through the process to verify and link your Roblox account.
