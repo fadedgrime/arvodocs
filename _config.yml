@@ -65,4 +65,7 @@ callouts:
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Enable or disable heading anchors
+heading_anchors: true
+
 footer_content: 'Copyright &copy; 2025 Arvo Stores. All rights reserved.'
